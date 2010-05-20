@@ -4,7 +4,7 @@ Plugin Name: Delayed Email
 Plugin URI: http://austinmatzko.com/wordpress-plugins/wp-delayed-mail/
 Description: Delay the sending of an email. <code>wp_delayed_mail</code> is the same as <code>wp_mail</code> except that the first argument passed to <code>wp_delayed_mail</code> is the UNIX epoch timestamp at which to send the email.
 Author: Austin Matzko
-Author URI: http://ilfilosofo.com
+Author URI: http://austinmatzko.com
 Version: 1.0
 
 Copyright 2010 Austin Matzko
